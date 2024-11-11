@@ -1,0 +1,23 @@
+digraph DFA {
+  rankdir=LR;  // 横向布局
+
+ node [shape = circle];   // 初始状态
+
+q2[shape = doublecircle];
+  q0 [label="State q0\n(startState)"];
+  q1 [label="State q1"];
+  q2 [label="State q2\n(endState)"];
+
+  q1 ->  [label="a"];
+   ->  [label="a"];
+   ->  [label="b"];
+   ->  [label="c"];
+   -> q2 [label="b"];
+   ->  [label="a"];
+   ->  [label="b"];
+   ->  [label="c"];
+   ->  [label="a"];
+   ->  [label="b"];
+   ->  [label="c"];
+  q2 -> q0 [label="c"];
+}
