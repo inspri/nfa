@@ -135,11 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="dfa_graph.dot" />
-    <None Include="dfa_graph_re.dot" />
-    <None Include="mindfa.dot" />
-    <None Include="mindfa_re.dot" />
     <None Include="nfa_graph.dot" />
-    <None Include="nfa_graph_re.dot" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="nfa.txt" />

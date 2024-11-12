@@ -1,4 +1,4 @@
 ﻿  func.cpp
-E:\文档\大三作业\编译原理\编译实验\自动机-NFA转DFA并确定化\func.cpp(363,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\文档\大三作业\编译原理\编译实验\自动机-NFA转DFA并确定化\func.cpp(463,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
   自动机-NFA转DFA并确定化.vcxproj -> E:\文档\大三作业\编译原理\编译实验\自动机-NFA转DFA并确定化\x64\Debug\自动机-NFA转DFA并确定化.exe

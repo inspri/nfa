@@ -34,18 +34,6 @@
     <None Include="dfa_graph.dot">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="mindfa.dot">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="dfa_graph_re.dot">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="nfa_graph_re.dot">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="mindfa_re.dot">
-      <Filter>资源文件</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="nfa.txt">
